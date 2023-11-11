@@ -1,0 +1,46 @@
+.title h1 {
+  font-size: 50px;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  color: blue;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.title h1::before {
+  content: "Работаем с камерой и светом";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: red;
+  overflow: hidden;
+  animation: water 8s infinite; /*скорость заполнения цветом*/
+}
+/* Зависимость скорости заполнения от процента заполнения (установить визуально) */
+@keyframes water {
+  0% {
+    height: 15%;
+  }
+
+  25% {
+    height: 50%;
+  }
+
+  50% {
+    height: 75%;
+  }
+
+  75% {
+    height: 100%;
+  }
+
+  100% {
+    height: 15%;
+  }
+}
