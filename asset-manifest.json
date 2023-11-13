@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exposition/static/css/main.b449f641.css",
-    "main.js": "/exposition/static/js/main.0328f0cc.js",
+    "main.js": "/exposition/static/js/main.073b689b.js",
     "static/media/about.jpg": "/exposition/static/media/about.b5401090a954d3f0e727.jpg",
     "static/media/Home-12.jpg": "/exposition/static/media/Home-12.5809b644a2f808241b67.jpg",
     "static/media/shutter-6.jpg": "/exposition/static/media/shutter-6.6ad602689b334dbc746a.jpg",
@@ -34,10 +34,10 @@
     "static/media/logoreact.svg": "/exposition/static/media/logoreact.8509d4c6d192920ef79ba49d160949a5.svg",
     "index.html": "/exposition/index.html",
     "main.b449f641.css.map": "/exposition/static/css/main.b449f641.css.map",
-    "main.0328f0cc.js.map": "/exposition/static/js/main.0328f0cc.js.map"
+    "main.073b689b.js.map": "/exposition/static/js/main.073b689b.js.map"
   },
   "entrypoints": [
     "static/css/main.b449f641.css",
-    "static/js/main.0328f0cc.js"
+    "static/js/main.073b689b.js"
   ]
 }
