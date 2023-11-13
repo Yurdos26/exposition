@@ -27,7 +27,7 @@ const Navigation = () => {
       <Link to="/iso">
         <button style={navStyle.navLink}>ISO</button>
       </Link>
-      <Link to="/About">
+      <Link to="/about">
         <button style={navStyle.navLink}>Инфо</button>
       </Link>
 

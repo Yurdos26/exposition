@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 import { wrapperStyle } from "./styles.jsx";
 import { Home, Aperture, ShutterSpeed, ISO, About } from "./pages.jsx";
@@ -9,7 +9,7 @@ import "./title.css";
 
 export const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div style={wrapperStyle.wrapper}>
         <Navigation />
 
@@ -25,6 +25,6 @@ export const App = () => {
           <Route exact path="/about" element={<About />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
