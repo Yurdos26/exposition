@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/exposition/static/css/main.33d99466.css",
+    "main.js": "/exposition/static/js/main.073b689b.js",
+    "static/media/about.jpg": "/exposition/static/media/about.b5401090a954d3f0e727.jpg",
+    "static/media/Home-12.jpg": "/exposition/static/media/Home-12.5809b644a2f808241b67.jpg",
+    "static/media/shutter-6.jpg": "/exposition/static/media/shutter-6.6ad602689b334dbc746a.jpg",
+    "static/media/Home-11.jpg": "/exposition/static/media/Home-11.8d33872176a38cd71022.jpg",
+    "static/media/aperture-1.jpg": "/exposition/static/media/aperture-1.0234745432e5c201d9c4.jpg",
+    "static/media/ISO-3.jpg": "/exposition/static/media/ISO-3.ccd686c2fe5a6fbf7ace.jpg",
+    "static/media/ISO-4.jpg": "/exposition/static/media/ISO-4.0a8fa61ebce0fedf3323.jpg",
+    "static/media/Home-1.jpg": "/exposition/static/media/Home-1.7ac5b6a127fe53b9ecab.jpg",
+    "static/media/Home-10.jpg": "/exposition/static/media/Home-10.c3609e4ea95ad94a6b4b.jpg",
+    "static/media/Home-4.jpg": "/exposition/static/media/Home-4.c607a49e7a85d0f7b497.jpg",
+    "static/media/ISO-5.jpg": "/exposition/static/media/ISO-5.cdd869b193aee89793da.jpg",
+    "static/media/shutter-8.jpg": "/exposition/static/media/shutter-8.cd640dd4bf50a7e94f63.jpg",
+    "static/media/Home-9.jpg": "/exposition/static/media/Home-9.94a55fc922215caa5666.jpg",
+    "static/media/shutter-7.jpg": "/exposition/static/media/shutter-7.7ea89e2658439635ee1e.jpg",
+    "static/media/aperture-3.jpg": "/exposition/static/media/aperture-3.d1b2fb24fad6bdf458e1.jpg",
+    "static/media/shutter-4.jpg": "/exposition/static/media/shutter-4.28dde10eba36babbd5af.jpg",
+    "static/media/Home-2.jpg": "/exposition/static/media/Home-2.0f40139b4c2ae7dcb096.jpg",
+    "static/media/Home-6.jpg": "/exposition/static/media/Home-6.edef36f873f684fa2ec0.jpg",
+    "static/media/Home-8.jpg": "/exposition/static/media/Home-8.80598bc6272934eff7bb.jpg",
+    "static/media/aperture-2.jpg": "/exposition/static/media/aperture-2.ca1942285edc06b24da2.jpg",
+    "static/media/Home-3.jpg": "/exposition/static/media/Home-3.4d38b891a17a12dde1f5.jpg",
+    "static/media/Home-5.jpg": "/exposition/static/media/Home-5.f815aa69234601fd8ecb.jpg",
+    "static/media/Home-7.jpg": "/exposition/static/media/Home-7.4e5ba7e197a68d867125.jpg",
+    "static/media/ISO-1.jpg": "/exposition/static/media/ISO-1.0e4cd410a0c88620852c.jpg",
+    "static/media/shutter-2.jpg": "/exposition/static/media/shutter-2.3f07472a8165b931ce64.jpg",
+    "static/media/ISO-2.jpg": "/exposition/static/media/ISO-2.1203d1fe4011caee0632.jpg",
+    "static/media/shutter-5.jpg": "/exposition/static/media/shutter-5.471c6ddfcde6d6757faf.jpg",
+    "static/media/shutter-3.jpg": "/exposition/static/media/shutter-3.4e51ff6a1c766f82d6b7.jpg",
+    "static/media/shutter-1.jpg": "/exposition/static/media/shutter-1.d0278b9ff226e6111324.jpg",
+    "static/media/logoreact.svg": "/exposition/static/media/logoreact.8509d4c6d192920ef79ba49d160949a5.svg",
+    "index.html": "/exposition/index.html",
+    "main.33d99466.css.map": "/exposition/static/css/main.33d99466.css.map",
+    "main.073b689b.js.map": "/exposition/static/js/main.073b689b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d99466.css",
+    "static/js/main.073b689b.js"
+  ]
+}
