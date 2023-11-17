@@ -1,7 +1,7 @@
 {
   "name": "exposition",
   "version": "2.3.0",
-  "homepage": "https://Yurdos26.github.io/exposition/",
+  "homepage": "https://Yurdos26.github.io/exposition",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
