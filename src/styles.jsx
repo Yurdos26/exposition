@@ -21,7 +21,7 @@ const navStyle = {
   navLink: {
     flexBasis: "100",
     flexShrink: "1",
-    margin: 20,
+    margin: 10,
     paddingLeft: 10,
     paddingRight: 10,
     paddingTop: 10,
