@@ -1,11 +1,13 @@
+.logoclock * {
+  margin: 20px 5px;
+}
+
 .logoclock {
   padding: 0;
   margin-left: 70px;
   color: #00a8db;
-
   font-family: "Times New Roman", Times, serif;
-  padding: 1px;
-  /* Расстояние от текста до рамки */
+  padding: 1px; /* Расстояние от текста до рамки */
   border-radius: 10px;
   box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.3);
 }

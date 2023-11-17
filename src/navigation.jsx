@@ -7,6 +7,8 @@ import logo from "./logoreact/logoreact.svg";
 
 import Clock from "./digitalclock/clock.js";
 
+import "./navigation.css";
+
 const Navigation = () => {
   return (
     <nav style={navStyle.nav}>
